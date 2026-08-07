@@ -31,10 +31,7 @@
   <a href="https://www.godotengine.org/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" height="40"/> 
   </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"> 
-  </a>
 </p>
 <hr>
-<p><a href="https://github.com/Valiant77">BrantLauro</a></p>
+<p><a href="https://github.com/Valiant77">Valiant77</a></p>
 <p>Last Edited on: 07/08/2026</p> 
